@@ -4,7 +4,7 @@
 <configuration scan="true">
     <include resource="org/springframework/boot/logging/logback/base.xml"/>
 
-    <logger name="ke.co.macoz.realestate.waterbilling" level="INFO"/>
+    <logger name="ke.co.macoz.realestate.billing" level="INFO"/>
 
     <logger name="tech.jhipster" level="WARN"/>
 
